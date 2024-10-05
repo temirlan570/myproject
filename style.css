@@ -1,0 +1,47 @@
+* {
+background-color: rgb(148, 192, 232);
+}
+.big{
+background-color: rgb(160, 81, 233);
+width: 560px;
+height: 460px;
+margin-top: 100px;
+border-radius: 30%;
+box-shadow: 0 50px 30px brown;
+border: 10px solid rgb(51, 46, 46);
+position: absolute;
+left: 565px
+}
+img{
+position: absolute;
+background: none;
+top: 300px;
+left: 700px;
+}
+
+.p1{
+text-align: center;
+font-size: 3em;
+background: none;
+
+
+
+}
+
+.p2{
+background: none;
+font-size: 2em;
+text-align: center;
+
+
+
+}
+
+
+
+
+
+
+
+
+
